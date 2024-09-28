@@ -1,5 +1,9 @@
 # 💫 About Me:
-¡Hola! Soy Luis, un Programador Jr de 35 años recién recibido de la Universidad Tecnológica Nacional como Técnico Universitario en Programación. Soy de Resistencia, Chaco, Argentina, y estoy entusiasmado por seguir creciendo en esta apasionante carrera.<br><br>Me motiva enfrentar nuevos desafíos, aprender constantemente, y contribuir con soluciones eficientes y creativas. A lo largo de mi formación, he adquirido experiencia en lenguajes como Java, C#, PHP,  Python, HTML, CSS, y javaScripts, además de trabajar con tecnologías como .NET Framework y SQL Server. Estoy listo para aplicar y expandir estos conocimientos en proyectos reales, tanto en equipo como de manera individual.<br><br>Me encantaría formar parte de equipos de trabajo donde pueda aportar mis habilidades y seguir mejorando como profesional. Estoy abierto a nuevas oportunidades y emocionado por lo que el futuro tiene para ofrecer.
+Hello! I’m Luis, a 35-year-old Junior Programmer recently graduated from the National Technological University with a degree as a University Technician in Programming. I’m from Resistencia, Chaco, Argentina, and I’m excited to continue growing in this exciting career.
+
+I’m motivated by facing new challenges, constantly learning, and contributing with efficient and creative solutions. Throughout my studies, I have gained experience in languages such as Java, C#, PHP, Python, HTML, CSS, and JavaScript, in addition to working with technologies like .NET Framework and SQL Server. I’m ready to apply and expand this knowledge in real projects, both in teams and individually.
+
+I would love to be part of work teams where I can contribute my skills and keep improving as a professional. I am open to new opportunities and excited about what the future holds
 
 
 ## 🌐 Socials:
