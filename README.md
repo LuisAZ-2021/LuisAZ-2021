@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Luis, a 35-year-old Junior Programmer recently graduated from the National Technological University with a degree as a University Technician in Programming. I’m from Resistencia, Chaco, Argentina, and I’m excited to continue growing in this exciting career.
+Hi! I’m Luis, a 36-year-old Junior Software Developer recently graduated from the National Technological University with a degree as a University Technician in Programming. I’m from Resistencia, Chaco, Argentina, and I’m excited to continue growing in this exciting career.
 
 I’m motivated by facing new challenges, constantly learning, and contributing with efficient and creative solutions. Throughout my studies, I have gained experience in languages such as Java, C#, PHP, Python, HTML, CSS, and JavaScript, in addition to working with technologies like .NET Framework and SQL Server. I’m ready to apply and expand this knowledge in real projects, both in teams and individually.
 
